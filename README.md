@@ -1,3 +1,3 @@
 # Hello-World
-Started GitHub Development
+Started GitHub Development.
 I am a software Developer.
